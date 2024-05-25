@@ -1,5 +1,5 @@
 
-
+---
 # Anirudh Pydah's Portfolio
 
 Welcome to my portfolio website! Here you'll find information about my academic background, professional experience, and various projects I've worked on in the fields of robotics, AI, and machine learning.
@@ -108,4 +108,4 @@ Jan 2024 - Mar 2024
 I am looking forward to contributing to cutting-edge projects in robotics and AI. Currently, I am exploring opportunities at Kodiak Robotics and other leading companies in the field.
 
 Thank you for visiting my portfolio. Feel free to explore my projects and reach out to me for any inquiries or collaboration opportunities.
-
+---
