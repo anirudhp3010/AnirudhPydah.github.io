@@ -1,18 +1,16 @@
-
----
 # Anirudh Pydah's Portfolio
 
 Welcome to my portfolio website! Here you'll find information about my academic background, professional experience, and various projects I've worked on in the fields of robotics, AI, and machine learning.
 
 ## About Me
 
-I am Anirudh Pydah, a recent graduate with an MS in Robotics and Autonomous Systems (Honors) from Arizona State University, achieving a GPA of 4.0/4.0. I also hold a B.E. in Mechanical Engineering from Birla Institute of Technology & Sciences, Pilani. With over two years of internship experience and a strong foundation in AI, ML, and RL, I am actively seeking full-time roles in Robotics, Control & AI.
+I am Anirudh Pydah, a recent graduate with an MS in Robotics and Autonomous Systems (Honors) from Arizona State University, achieving a GPA of 4.0/4.0. I also hold a B.E. in Mechanical Engineering from Birla Institute of Technology & Sciences, Pilani. With over two years of internship experience and a strong foundation in AI, ML, and RL, I am actively seeking full-time roles in Robotics & AI.
 
 ## Contact Information
 
 - **Phone:** +1 (602) 849-3883
 - **Email:** anirudhp3010@gmail.com
-- **Website:** [anirudhpydah.github.io](https://AnirudhPydah.github.io)
+- **Website:** [anirudhpydah.github.io](https://anirudhpydah.github.io)
 - **GitHub:** [github.com/anirudhp3010](https://github.com/anirudhp3010)
 - **LinkedIn:** [linkedin.com/in/anirudh-pydah-862514191](https://www.linkedin.com/in/anirudh-pydah-862514191/)
 
@@ -108,4 +106,3 @@ Jan 2024 - Mar 2024
 I am looking forward to contributing to cutting-edge projects in robotics and AI. Currently, I am exploring opportunities at Kodiak Robotics and other leading companies in the field.
 
 Thank you for visiting my portfolio. Feel free to explore my projects and reach out to me for any inquiries or collaboration opportunities.
----
